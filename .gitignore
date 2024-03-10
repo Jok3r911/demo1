@@ -1,0 +1,7 @@
+*.pyc
+*.egg
+*.swp
+papyrus.egg-info/
+dist
+.build
+.coverage
